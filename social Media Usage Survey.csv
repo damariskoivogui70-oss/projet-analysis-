@@ -1,0 +1,31 @@
+ID,Code,Date,Weekday,Name,Gender,Age ,Highest  Education , social media use(Yes/No), regularly social media platforms,H,I,G,Fecebook,WhatsApp,Instagram,Tiktok,Telegram,Number of followed account,Main reason,Entertainment,Work,Study,Other,Time spend daily(hours)
+A1234,ABC2345,5/10/2025,10/24/2025,Waly,Female,20-25,Postgraduate,Yes,Facebook,,,,1,0,0,0,0,More than 100,Entertainment,1,0,0,0,1
+A1235,ABC2346,5/11/2025,6/10/2025,Benjamin Zoum,Male,25-30,University,Yes,Facebook,,,,1,0,0,0,0,51-100,Work,0,1,0,0,3
+A1236,ABC2347,5/12/2025,7/10/2025,Fwangle Jemimah ,Female,20-25,University,Yes,Instagram,,,,0,0,1,0,0,51-100,Study,0,0,1,0,2
+A1237,ABC2348,5/13/2025,7/11/2025,Kolouboye,Female,30 +,Secondary,Yes,Facebook,,,,1,0,0,0,0,51-100,Entertainment,1,0,0,0,1
+A1238,ABC2349,5/14/2025,7/12/2025,Major Elijah ,Male,25-30,University,Yes,WhatsApp,,,,0,1,0,0,0,Less than 50,Work,0,1,0,0,1
+A1239,ABC2350,5/12/2025,7/13/2025,A„èCha Avo Camara ,Female,30 +,University,Yes,Facebook,,,,1,0,0,0,0,More than 100,Other,0,0,0,1,2
+A1240,ABC2351,5/13/2025,7/14/2025,Annabelle Ciss„©,Female,20-25,University,Yes,WhatsApp,,,,0,1,0,0,0,,Other,0,0,0,1,3
+A1241,ABC2352,5/14/2025,7/15/2025,Grace Liliane Biteghe,Female,20-25,University,Yes,Tiktok,Instagram,Snapchat,WhatsApp,0,1,1,1,0,More than 100,Other,0,0,0,1,1
+A1242,ABC2353,5/15/2025,7/16/2025,Damawa,Female,30 +,Secondary,NO,,,,,0,0,0,0,0,0,Phoneless,0,0,0,0,0
+A1243,ABC2354,5/16/2025,7/17/2025,Elisa,Female,30 +,University,Yes,Facebook,WhatsApp,,,1,1,0,0,0,51-100,Study;Work;Entertainment,1,1,1,0,2
+A1244,ABC2355,5/17/2025,7/18/2025,Guillermo ,Male,20-25,Secondary,Yes,Facebook,Tiktok,WhatsApp,Telegram,1,1,0,1,1,More than 100,Study;Entertainment,1,0,1,0,2
+A1245,ABC2356,5/18/2025,7/19/2025,Santiago,Male,20-25,Secondary,Yes,Facebook,Tiktok,WhatsApp,,1,1,0,1,0,More than 100,Entertainment,1,0,0,0,2
+A1246,ABC2357,5/19/2025,7/20/2025,Safia,Female,20-25,Secondary,Yes,Instagram,Snapchat,WhatsApp,,0,1,1,0,0,51-100,Study;Work,0,1,1,0,6
+A1247,ABC2358,5/20/2025,7/21/2025,Lambert ,Male,30 +,Secondary,Yes,Facebook,WhatsApp,,,1,1,0,0,0,More than 100,Entertainment;Other,1,0,0,1,8
+A1248,ABC2359,5/21/2025,7/22/2025,Bernadette,Female,25-30,University,Yes,Facebook,Snapchat,,,1,0,0,0,0,More than 100,Entertainment;Other,1,0,0,1,8
+A1249,ABC2360,5/22/2025,7/23/2025,Douo,Male,25-30,University,NO,,,,,0,0,0,0,0,0,Phoneless,0,0,0,0,0
+A1250,ABC2361,5/23/2025,7/24/2025,Delphine,Female,25-30,Postgraduate,Yes,Facebook,Tiktok,Instagram,Snapchat,1,0,1,1,0,More than 100,Study;Work;Entertainment,1,1,1,0,4
+A1251,ABC2362,5/24/2025,7/25/2025,Jeanne,Female,30 +,Postgraduate,Yes,Facebook,Tiktok,,,1,0,0,1,0,More than 100,Study;Work;Entertainment;Other,1,1,1,1,4
+A1252,ABC2363,5/25/2025,7/26/2025,Sianea,Female,20-25,University,Yes,Facebook,Tiktok,WhatsApp,,1,1,0,1,0,More than 100,Study;Work;Entertainment;Other,1,1,1,1,4
+A1253,ABC2364,5/26/2025,7/27/2025,Zeze,Male,25-30,University,Yes,Facebook,Tiktok,Instagram,WhatsApp,1,1,1,1,0,More than 100,Study;Entertainment,1,0,1,0,3
+A1254,ABC2365,5/27/2025,7/28/2025,Marie,Female,20-25,University,Yes,Facebook,Tiktok,,,1,0,0,1,0,More than 100,Study;Entertainment,1,0,1,0,8
+A1255,ABC2366,5/28/2025,7/29/2025,Denise,Female,20-25,University,Yes,Facebook,,,,1,0,0,0,0,More than 100,Entertainment,1,0,0,0,2
+A1256,ABC2367,5/29/2025,7/30/2025,Kekoura,Male,25-30,Postgraduate,NO,,,,,0,0,0,0,0,0,Phoneless,0,0,0,0,0
+A1257,ABC2368,5/30/2025,7/31/2025,Daniel,Male,30 +,University,Yes,Facebook,WhatsApp,,,1,1,0,0,0,Less than 50,Study,0,0,1,0,8
+A1258,ABC2369,5/31/2025,8/1/2025,Joseph ,Female,30 +,Postgraduate,Yes,Facebook,WhatsApp,,,1,1,0,0,0,Less than 50,Work,0,1,0,0,24
+A1259,ABC2370,6/1/2025,8/2/2025,Josephine,Female,20-25,Secondary,NO,,,,,0,0,0,0,0,0,Phoneless,0,0,0,0,0
+A1260,ABC2371,6/2/2025,8/3/2025,Koligna,Male,30 +,Postgraduate,Yes,Facebook,Tiktok,WhatsApp,Telegram,1,1,0,1,1,More than 100,Study;Work;Entertainment;Other,1,1,1,1,6
+A1261,ABC2372,6/3/2025,8/4/2025,Martine,Female,30 +,University,Yes,Facebook,Tiktok,,,1,0,0,1,0,More than 100,Entertainment,1,0,0,0,4
+A1262,ABC2373,6/4/2025,8/5/2025,Junior,Male,25-30,Secondary,Yes,Facebook,WhatsApp,,,1,1,0,0,0,Less than 50,Entertainment;Other,1,0,0,1,24
+A1263,ABC2374,6/5/2025,8/6/2025,,,,,,,,,,,,,,,,,,,,,
